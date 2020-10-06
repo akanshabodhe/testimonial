@@ -1,0 +1,21 @@
+.form-box{
+  width: 1250px;
+  height: 400px;
+  position: relative;
+  margin:12% auto;
+  padding:30px;
+  background-color: #0779e4;
+  border-radius:5px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 30px;
+}
+.image{
+  height: 350px;
+  width: 200px;
+  border-radius: 5px;
+}
+.text1{
+   font-weight: 600;
+  font-size: 15px;
+}
